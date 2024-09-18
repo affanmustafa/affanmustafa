@@ -1,5 +1,5 @@
 # 💫 About Me:
-I code in Node, Nest, React, Next, Angular, Powershell and a little bit of Rust these days
+Hey this coding thing is kinda fun. I code in Node, Nest, React, Next, Angular, Powershell and a little bit of Rust these days
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@ I code in Node, Nest, React, Next, Angular, Powershell and a little bit of Rust 
 ![](https://github-readme-stats.vercel.app/api?username=affanmustafa&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=affanmustafa&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=affanmustafa&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=affanmustafa&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
