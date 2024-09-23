@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey this coding thing is kinda fun. I do it in Node, Nest, React, Next, Angular, Powershell and a little bit of Rust these days
+Hey this coding thing is kinda fun. I do it in Node, Nest, React, Next, Powershell and some Rust these days
 
 
 ## 🌐 Socials:
