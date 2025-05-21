@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey this coding thing is kinda fun. I do it in Node, Nest, React, Next. Building Orbit, an AI powered Social Media Strategy Hub
+Hey this coding thing is kinda fun. I do it in Node, Nest, React, Next. Building Cool Shit
 
 # 🔗 Website:
 https://affanmustafa.vercel.app/
