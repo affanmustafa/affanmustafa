@@ -2,7 +2,7 @@
 Hey this coding thing is kinda fun. I do it in Node, Nest, React, Next. Building Cool Shit
 
 # 🔗 Website:
-https://affanmustafa.vercel.app/
+https://affanmustafa.com
 
 # ✉️ Contact:
 Reach out to me via email at 
