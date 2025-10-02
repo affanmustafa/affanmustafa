@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey this coding thing is kinda fun. I do it in Node, Nest, React, Next. Building Cool Shit
+building cool shit. right now building recollo, your 2nd brain on steroids with AI
 
 # 🔗 Website:
 https://affanmustafa.com
