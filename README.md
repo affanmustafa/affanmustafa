@@ -1,5 +1,5 @@
 # 💫 About Me:
-building cool shit. right now building recollo, your 2nd brain on steroids with AI
+building recollo, your 2nd brain on steroids with AI
 
 # 🔗 Website:
 https://affanmustafa.com
