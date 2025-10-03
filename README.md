@@ -9,8 +9,6 @@ Reach out to me via email at
 ```
 echo 'YWZmYW5tdXN0YWZhMjI5N0BnbWFpbC5jb20=' | base64 -d
 ```
-for the normies:
-
 affanmustafa2297@gmail.com
 
 # 💻 Tech Stack:
