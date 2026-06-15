@@ -1,6 +1,6 @@
 # 💫 About Me:
 building:
-- [recollo](https://recollo.app), your 2nd brain on steroids with AI
+- /recollo - your 2nd brain on steroids
 - /control - remote automation and control for macos
 # 🔗 Website:
 https://affanmustafa.com
